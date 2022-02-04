@@ -1,2 +1,1 @@
-# csgo
-Now called awpy. 
+# csgo Python library is now [awpy](https://github.com/pnxenopoulos/awpy)
